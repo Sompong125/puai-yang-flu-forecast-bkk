@@ -1,0 +1,11 @@
+# ไฟล์ดิบ: ใหญ่ (รวมราว 195 MB) และข้อมูลระดับรายบุคคล ไม่เก็บใน repo
+data/raw/*.csv
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Jupyter / OS
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

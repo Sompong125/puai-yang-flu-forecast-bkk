@@ -1,0 +1,7 @@
+# ทดสอบแล้วกับ Python 3.13 / pandas 2.2.3 และ 3.x
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.3
+# เฉพาะถ้าจะเปิด notebook ในเครื่องตัวเอง
+# jupyter

@@ -1,0 +1,8 @@
+﻿โมเดล,พารามิเตอร์,CV MAE,ต่ำกว่าจริง %
+baseline (ค่าสัปดาห์ก่อน),-,5.616,47.048
+Ridge,alpha=1,7.441,19.31
+Ridge,alpha=10,7.426,19.595
+Ridge,alpha=100,7.413,19.976
+Ridge,alpha=1000,10.858,10.976
+RandomForest,"depth=3, leaf=20",8.817,26.369
+RandomForest,"depth=5, leaf=10",6.42,32.881
